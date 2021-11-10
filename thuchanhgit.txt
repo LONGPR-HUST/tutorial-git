@@ -1,1 +1,2 @@
 $ git add .  // Đăng kí tất cả các file trong index
+aaaa
